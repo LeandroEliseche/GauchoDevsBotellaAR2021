@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.7.4">
+        <CylinderTarget name="CorderoConPielDeLobo" version="3.0" targetId="38d43e6ddf73426cb3c1e2170b494f06" sideLength="2631.000000" topDiameter="1751.589966" bottomDiameter="1751.589966" sideImage="CorderoConPielDeLobo.Body_scaled.jpg"/>
+        <CylinderTarget name="cor" version="3.0" targetId="ff6b9464536d442b995dff49bf7b7e87" sideLength="709.000000" topDiameter="354.450012" bottomDiameter="354.450012" sideImage="cor.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
